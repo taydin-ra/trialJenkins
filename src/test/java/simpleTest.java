@@ -5,5 +5,10 @@ public class simpleTest {
     public void simpleTest(){
         System.out.println("Pass");
     }
+    @Test
+    public void simpleTest1(){
+        System.out.println("Pass the second one");
+    }
 }
+
 
